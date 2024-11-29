@@ -47,6 +47,15 @@ This implementation simulates the game using Java, utilizing core concepts such 
 
 ## **How to Play**
 1. Clone the repository and compile the code:
-   ```bash
    javac SnakeNLadderTest.java
+2.Run the game:
+   java SnakeNLadderTest
+3.Follow the on-screen instructions to play:
+   Player 1 and Player 2 take turns rolling the dice by pressing r.
+   Watch out for snakes and aim for ladders!
+   First player to reach 100 wins.
 
+
+
+
+## Thank You Feel Free to reach for any correction!
